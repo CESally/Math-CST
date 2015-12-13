@@ -18,7 +18,7 @@ _effectively calculable pf_ - a _k_-place function _f_, such that there is an ef
 2. runs forever for on inputs not in its domain (on inputs for which it is undefined)
 
 _decidable_ (formal) - For a subset _S_ of N<sup>k</sup>, we can say that _S_ is decidable iff its characteristic function
-$\Gamma$
-C<sub>S</sub>(x) =Yes if E xS No ifE x S
+
+C<sub>S</sub>(x) =Yes if E x &#x2208 S No ifE x S
 
 (which is always total) is effectively calculable. Here “Yes” and “No” are some ﬁxed members of N, such as 1 and 0. 
