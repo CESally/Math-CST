@@ -19,6 +19,6 @@ _effectively calculable pf_ - a _k_-place function _f_, such that there is an ef
 
 _decidable_ (formal) - For a subset _S_ of N<sup>k</sup>, we can say that _S_ is decidable iff its characteristic function
 
-C<sub>S</sub>(x) =Yes if E x &#x2208; S No ifE x S
+C<sub>S</sub>(x) =Yes if x &#x2208; _S_ No if x &#x2208; _S_
 
 (which is always total) is effectively calculable. Here “Yes” and “No” are some ﬁxed members of N, such as 1 and 0. 
